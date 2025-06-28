@@ -11,6 +11,7 @@ A Flutter application that demonstrates responsive UI design, state management, 
 - **Add New User:** Clean form for adding users (locally, not persisted to API).
 - **Responsive Design:** Adapts to mobile, tablet, and desktop screens.
 - **Search Functionality:** Filter users by name with instant search.
+- **Theme Change:** Theme change options availabe for user.
 - **Error Handling:** Gracefully handles API failures and empty states.
 - **Navigation:** Smooth page transitions and animations.
 - **State Management:** Uses the Bloc package for clean state management.
