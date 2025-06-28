@@ -55,7 +55,7 @@ Tools • Dart 3.7.2 • DevTools 2.42.3
 
 1. **Clone the repository:**
     ```bash
-    git clone:- 
+    git clone:- https://github.com/keshavmasvaleflutter/seek_helpers_task.git
     ```
 
 ### Running the App
