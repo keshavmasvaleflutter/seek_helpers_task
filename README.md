@@ -77,15 +77,14 @@ Tools • Dart 3.7.2 • DevTools 2.42.3
 
 ## 🖼️ Screenshots
 
-
-(https://drive.google.com/uc?id=18Vpkop4SA2Oj9erUnYgfPVKY4mab5gMY) | (https://drive.google.com/uc?id=19OI6sQ6ZnCSYC4WTpBJarkH6CsnmeBF2) | (https://drive.google.com/uc?id=1P2YrS1XXMH5Y-fO2aaW0Q9lD8k6QOwIJ) | !(https://drive.google.com/uc?id=1dB7aE2wihZFv2Taye4rQ9N88iUp82GGR) | (https://drive.google.com/uc?id=1ve40FiskxAyzzSZrpvKXKu35IU2Ixb7-) |
+https://drive.google.com/file/d/18Vpkop4SA2Oj9erUnYgfPVKY4mab5gMY/view?usp=sharing, https://drive.google.com/file/d/19OI6sQ6ZnCSYC4WTpBJarkH6CsnmeBF2/view?usp=sharing, https://drive.google.com/file/d/1P2YrS1XXMH5Y-fO2aaW0Q9lD8k6QOwIJ/view?usp=sharing, https://drive.google.com/file/d/1dB7aE2wihZFv2Taye4rQ9N88iUp82GGR/view?usp=sharing, https://drive.google.com/file/d/1ve40FiskxAyzzSZrpvKXKu35IU2Ixb7-/view?usp=sharing, https://drive.google.com/file/d/1y6vkTVB7xlMkRnt91DZ9MkjIhRiXN40C/view?usp=sharing, https://drive.google.com/file/d/1zP6yVdtx_q6sJT57PIQXRXh5tY5WxSk4/view?usp=sharing
 
 ---
 
 ## 🖥️ Responsive UI
 
 
-(https://drive.google.com/uc?id=100bDaoyaLEWQRi88nmqngNbwiuxhUaox) | (https://drive.google.com/uc?id=13Y-QCqmQfN75u2uvA4foOdcUzutfK5SQ) | (https://drive.google.com/uc?id=1cLVjfpwYHOviArWtSkTloxQ26b1dCxbE) | !(https://drive.google.com/uc?id=1mBr5lqqQXqXR_aFBV5XHaoVjsNBrQry-) | (https://drive.google.com/uc?id=1oSDe7xuinIun-4OZBOi0gPwMUeqBRsth) | (https://drive.google.com/uc?id=1twlAYHXPCuzudp6Q-KFC77XadA9cfEQy) |
+https://drive.google.com/file/d/100bDaoyaLEWQRi88nmqngNbwiuxhUaox/view?usp=sharing, https://drive.google.com/file/d/13Y-QCqmQfN75u2uvA4foOdcUzutfK5SQ/view?usp=sharing, https://drive.google.com/file/d/1cLVjfpwYHOviArWtSkTloxQ26b1dCxbE/view?usp=sharing, https://drive.google.com/file/d/1mBr5lqqQXqXR_aFBV5XHaoVjsNBrQry-/view?usp=sharing, https://drive.google.com/file/d/1oSDe7xuinIun-4OZBOi0gPwMUeqBRsth/view?usp=sharing, https://drive.google.com/file/d/1twlAYHXPCuzudp6Q-KFC77XadA9cfEQy/view?usp=sharing
 
 ---
 
