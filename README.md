@@ -77,17 +77,15 @@ Tools • Dart 3.7.2 • DevTools 2.42.3
 
 ## 🖼️ Screenshots
 
-| User List | User Details | Add User | Theme Change | Search |
-|-----------|--------------|----------|--------------|--------|
-| ![User List](https://drive.google.com/uc?id=18Vpkop4SA2Oj9erUnYgfPVKY4mab5gMY) | ![User Details](https://drive.google.com/uc?id=19OI6sQ6ZnCSYC4WTpBJarkH6CsnmeBF2) | ![Add User](https://drive.google.com/uc?id=1P2YrS1XXMH5Y-fO2aaW0Q9lD8k6QOwIJ) | ![Theme Change](https://drive.google.com/uc?id=1dB7aE2wihZFv2Taye4rQ9N88iUp82GGR) | ![Search](https://drive.google.com/uc?id=1ve40FiskxAyzzSZrpvKXKu35IU2Ixb7-) |
+
+(https://drive.google.com/uc?id=18Vpkop4SA2Oj9erUnYgfPVKY4mab5gMY) | (https://drive.google.com/uc?id=19OI6sQ6ZnCSYC4WTpBJarkH6CsnmeBF2) | (https://drive.google.com/uc?id=1P2YrS1XXMH5Y-fO2aaW0Q9lD8k6QOwIJ) | !(https://drive.google.com/uc?id=1dB7aE2wihZFv2Taye4rQ9N88iUp82GGR) | (https://drive.google.com/uc?id=1ve40FiskxAyzzSZrpvKXKu35IU2Ixb7-) |
 
 ---
 
 ## 🖥️ Responsive UI
 
-| Mobile | Tablet | Desktop | Grid View | List View | Dark Theme |
-|--------|--------|---------|-----------|-----------|------------|
-| ![Mobile](https://drive.google.com/uc?id=100bDaoyaLEWQRi88nmqngNbwiuxhUaox) | ![Tablet](https://drive.google.com/uc?id=13Y-QCqmQfN75u2uvA4foOdcUzutfK5SQ) | ![Desktop](https://drive.google.com/uc?id=1cLVjfpwYHOviArWtSkTloxQ26b1dCxbE) | ![Grid View](https://drive.google.com/uc?id=1mBr5lqqQXqXR_aFBV5XHaoVjsNBrQry-) | ![List View](https://drive.google.com/uc?id=1oSDe7xuinIun-4OZBOi0gPwMUeqBRsth) | ![Dark Theme](https://drive.google.com/uc?id=1twlAYHXPCuzudp6Q-KFC77XadA9cfEQy) |
+
+(https://drive.google.com/uc?id=100bDaoyaLEWQRi88nmqngNbwiuxhUaox) | (https://drive.google.com/uc?id=13Y-QCqmQfN75u2uvA4foOdcUzutfK5SQ) | (https://drive.google.com/uc?id=1cLVjfpwYHOviArWtSkTloxQ26b1dCxbE) | !(https://drive.google.com/uc?id=1mBr5lqqQXqXR_aFBV5XHaoVjsNBrQry-) | (https://drive.google.com/uc?id=1oSDe7xuinIun-4OZBOi0gPwMUeqBRsth) | (https://drive.google.com/uc?id=1twlAYHXPCuzudp6Q-KFC77XadA9cfEQy) |
 
 ---
 
