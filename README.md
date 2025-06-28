@@ -15,16 +15,17 @@ A Flutter application that demonstrates responsive UI design, state management, 
 - **Search Functionality:** Filter users by name with instant search.
 - **Error Handling:** Gracefully handles API failures and empty states.
 - **Navigation:** Smooth page transitions and animations.
-- **State Management:** Uses the `provider` package for clean state separation.
+- **State Management:** Uses the Bloc package for clean state managment.
 
 ---
 
 ## 🛠️ Technical Overview
 
-- **State Management:** [provider](https://pub.dev/packages/provider) (and optionally [flutter_riverpod](https://pub.dev/packages/flutter_riverpod))
+- **State Management:** Bloc
 - **API Integration:** [http](https://pub.dev/packages/http) package, connecting to JSONPlaceholder REST API
-- **UI:** Material 3 design, responsive widgets
+- **UI:** Material 3 design, responsive UI design
 - **Navigation:** Flutter Navigator with custom transition animations
+- **Theme:** Light and Dark Theme Change Available
 
 ---
 
@@ -32,11 +33,10 @@ A Flutter application that demonstrates responsive UI design, state management, 
 
 ```
 lib/
-├── models/            # Data models (e.g., user.dart)
-├── providers/         # State management (e.g., user_provider.dart)
-├── screens/           # UI screens (list, details, add user)
-├── services/          # API services (e.g., user_service.dart)
-├── widgets/           # Reusable UI components
+├── core/ 
+├── view/  
+├── features/  
+├── app_router/  
 ├── main.dart          # App entry point
 ```
 
@@ -46,23 +46,16 @@ lib/
 
 ### Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (latest stable)
-- Dart SDK (comes with Flutter)
-- IDE: Android Studio, VS Code, or IntelliJ IDEA with Flutter plugin
+Flutter 3.29.3 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision ea121f8859 (3 months ago) • 2025-04-11 19:10:07 +0000
+Engine • revision cf56914b32
+Tools • Dart 3.7.2 • DevTools 2.42.3
 
 ### Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone [repository-url]
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd flutter-user-management-app
-    ```
-3. **Install dependencies:**
-    ```bash
-    flutter pub get
+    git clone:- 
     ```
 
 ### Running the App
@@ -71,21 +64,10 @@ lib/
     ```bash
     flutter run
     ```
-- **Release build (Android APK):**
+- **Release build:**
     ```bash
     flutter build apk --release
     ```
-
----
-
-## 📚 Dependencies
-
-```yaml
-provider: ^6.0.5
-http: ^0.13.5
-flutter_riverpod: ^2.4.9    # (optional, if Riverpod is used)
-equatable: ^2.0.5           # (optional, for value equality)
-```
 
 ---
 
@@ -100,35 +82,14 @@ equatable: ^2.0.5           # (optional, for value equality)
 
 ## 🎁 Bonus Features
 
-- Search bar to filter users by name
+- Search bar to filter users
 - Animations for smooth page transitions
 - Loading indicators and error messages for API calls
-
----
-
-## ⚠️ Known Issues
-
-- None currently
-
----
-
-## 🚧 Future Improvements
-
-- Implement pull-to-refresh functionality
-- Add user editing and deletion
-- Implement proper API POST/PUT for user management
-- Add dark mode support
+- Theme Change options
 
 ---
 
 ## 👤 Author
 
-- **[Your Name]**
-- [Your Contact Information]
-- [Your GitHub Profile]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+- **Keshav Masvale**
+- Mo. No.:- 9657546519
