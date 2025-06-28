@@ -1,5 +1,3 @@
-# seek_helpers_task
-
 # Flutter User Management App
 
 A Flutter application that demonstrates responsive UI design, state management, and REST API integration. The app fetches and displays a list of users from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users), allows viewing user details, and provides a form to add new users locally.
@@ -15,7 +13,7 @@ A Flutter application that demonstrates responsive UI design, state management, 
 - **Search Functionality:** Filter users by name with instant search.
 - **Error Handling:** Gracefully handles API failures and empty states.
 - **Navigation:** Smooth page transitions and animations.
-- **State Management:** Uses the Bloc package for clean state managment.
+- **State Management:** Uses the Bloc package for clean state management.
 
 ---
 
@@ -31,7 +29,7 @@ A Flutter application that demonstrates responsive UI design, state management, 
 
 ## 📦 Project Structure
 
-```
+```plaintext
 lib/
 ├── core/ 
 ├── view/  
@@ -46,16 +44,16 @@ lib/
 
 ### Prerequisites
 
-Flutter 3.29.3 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision ea121f8859 (3 months ago) • 2025-04-11 19:10:07 +0000
-Engine • revision cf56914b32
+Flutter 3.29.3 • channel stable • https://github.com/flutter/flutter.git  
+Framework • revision ea121f8859 (3 months ago) • 2025-04-11 19:10:07 +0000  
+Engine • revision cf56914b32  
 Tools • Dart 3.7.2 • DevTools 2.42.3
 
 ### Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone:- https://github.com/keshavmasvaleflutter/seek_helpers_task.git
+    git clone https://github.com/keshavmasvaleflutter/seek_helpers_task.git
     ```
 
 ### Running the App
@@ -71,12 +69,25 @@ Tools • Dart 3.7.2 • DevTools 2.42.3
 
 ---
 
+## 🖼️ Download APK
+
+[Download APK](https://drive.google.com/file/d/1Xg0Rmjt92LCQI56UE2Dk2mFKRqs1MLxq/view?usp=sharing)
+
+---
+
 ## 🖼️ Screenshots
 
-<!-- Add your actual screenshots below -->
-| User List | User Details | Add User Form |
-|-----------|--------------|---------------|
-| ![List](screenshots/user_list.png) | ![Details](screenshots/user_details.png) | ![Add](screenshots/add_user.png) |
+| User List | User Details | Add User | Theme Change | Search |
+|-----------|--------------|----------|--------------|--------|
+| ![User List](https://drive.google.com/uc?id=18Vpkop4SA2Oj9erUnYgfPVKY4mab5gMY) | ![User Details](https://drive.google.com/uc?id=19OI6sQ6ZnCSYC4WTpBJarkH6CsnmeBF2) | ![Add User](https://drive.google.com/uc?id=1P2YrS1XXMH5Y-fO2aaW0Q9lD8k6QOwIJ) | ![Theme Change](https://drive.google.com/uc?id=1dB7aE2wihZFv2Taye4rQ9N88iUp82GGR) | ![Search](https://drive.google.com/uc?id=1ve40FiskxAyzzSZrpvKXKu35IU2Ixb7-) |
+
+---
+
+## 🖥️ Responsive UI
+
+| Mobile | Tablet | Desktop | Grid View | List View | Dark Theme |
+|--------|--------|---------|-----------|-----------|------------|
+| ![Mobile](https://drive.google.com/uc?id=100bDaoyaLEWQRi88nmqngNbwiuxhUaox) | ![Tablet](https://drive.google.com/uc?id=13Y-QCqmQfN75u2uvA4foOdcUzutfK5SQ) | ![Desktop](https://drive.google.com/uc?id=1cLVjfpwYHOviArWtSkTloxQ26b1dCxbE) | ![Grid View](https://drive.google.com/uc?id=1mBr5lqqQXqXR_aFBV5XHaoVjsNBrQry-) | ![List View](https://drive.google.com/uc?id=1oSDe7xuinIun-4OZBOi0gPwMUeqBRsth) | ![Dark Theme](https://drive.google.com/uc?id=1twlAYHXPCuzudp6Q-KFC77XadA9cfEQy) |
 
 ---
 
@@ -93,3 +104,5 @@ Tools • Dart 3.7.2 • DevTools 2.42.3
 
 - **Keshav Masvale**
 - Mo. No.:- 9657546519
+
+---
